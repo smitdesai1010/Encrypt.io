@@ -1,5 +1,5 @@
 # Encrypt.io
-To tackle the increasing cyber threats and data-breaches, Encrypt.io is a Windows file-encryption application which uses AES 128-bit encryption
+To tackle the increasing cyber threats and data-breaches, Encrypt.io is a Windows file-encryption application which uses DES 128-bit encryption
 
 The application prompts the user to upload the file that has to encrypted and a passowrd.
 Based upon the password entered by the user, the application will generate multiple passcodes.
